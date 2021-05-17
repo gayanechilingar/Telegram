@@ -1,0 +1,13 @@
+telegrambot/GayaneBot.class
+telegrambot/ReadProperties.class
+com/telegrambot/core/BotMessage.class
+com/telegrambot/core/TelegramBotMain.class
+telegrambot/weather/WeatherParsing.class
+com/telegrambot/core/HttpClient.class
+telegrambot/MainClass.class
+com/telegrambot/domain/Client.class
+telegrambot/coinbase/BankParsing.class
+com/telegrambot/services/ClientService.class
+telegrambot/area/AreaFinding.class
+telegrambot/buttons/Reply.class
+com/telegrambot/repositories/ClientRepository.class

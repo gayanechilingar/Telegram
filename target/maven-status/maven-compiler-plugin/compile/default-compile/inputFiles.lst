@@ -1,0 +1,13 @@
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/com/telegrambot/domain/Client.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/weather/WeatherParsing.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/area/AreaFinding.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/ReadProperties.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/com/telegrambot/services/ClientService.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/GayaneBot.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/com/telegrambot/core/BotMessage.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/com/telegrambot/core/TelegramBotMain.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/buttons/Reply.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/com/telegrambot/repositories/ClientRepository.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/com/telegrambot/core/HttpClient.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/coinbase/BankParsing.java
+/home/gayanec/NetBeansProjects/TeleBot/src/main/java/telegrambot/MainClass.java
